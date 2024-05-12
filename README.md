@@ -5,4 +5,4 @@ I'm providing these with the expectation that they may also be beneficial to you
 
 Available notes:
 
-[C++](https://github.com/makszeus/cs-notes/tree/main/src/cpp.org)
+ - [C++](https://github.com/makszeus/cs-notes/tree/main/src/cpp.org)
