@@ -1,0 +1,3 @@
+* cpp
+
+https://cpp-kt.github.io/cpp-notes/course.html -- конспект лекций по C++ (кафедра КТ, ИТМО)
