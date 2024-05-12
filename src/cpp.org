@@ -1,3 +1,4 @@
 * cpp
 
-https://cpp-kt.github.io/cpp-notes/course.html -- конспект лекций по C++ (кафедра КТ, ИТМО)
+1. https://cpp-kt.github.io/cpp-notes/course.html -- конспект лекций по C++ (кафедра КТ, ИТМО)
+2. https://gitlab.com/danlark/cpp-advanced-hse -- углубленный курс по C++ (Факультет компьютерных наук, ВШЭ)
