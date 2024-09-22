@@ -1,1 +1,5 @@
+* dist-sys
 
+** Literature
+1. van Steen M., Tanenbaum A.S. Distributed Systems: Principles and Paradigms.
+2. Kleppmann M. Design Data-Intensive Applications.
