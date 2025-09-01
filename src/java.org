@@ -1,4 +1,4 @@
 * java
 
 ** Courses
-1. [[Java. Базовый курс][https://stepik.org/course/187]]
+1. [[https://stepik.org/course/187][Java. Базовый курс]]
