@@ -5,7 +5,7 @@ I'm providing these with the expectation that they may also be beneficial to you
 
 Available notes:
 
- - [C++](https://github.com/makszeus/cs-notes/tree/main/src/cpp.org)
- - [Computer Architecture](https://github.com/makszeus/cs-notes/tree/main/src/ca.org)
- - [Distributed Systems](https://github.com/makszeus/cs-notes/tree/main/src/dist-sys.org)
- - [Java](https://github.com/makszeus/cs-notes/tree/main/src/java.org)
+ - [C++](https://github.com/makszeus/cs-notes/tree/main/src/cpp.md)
+ - [Computer Architecture](https://github.com/makszeus/cs-notes/tree/main/src/ca.omd)
+ - [Distributed Systems](https://github.com/makszeus/cs-notes/tree/main/src/dist-sys.md)
+ - [Java](https://github.com/makszeus/cs-notes/tree/main/src/java.md)
