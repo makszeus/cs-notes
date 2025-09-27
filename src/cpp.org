@@ -1,7 +1,0 @@
-* cpp
-
-1. https://cpp-kt.github.io/cpp-notes/course.html -- lecture notes on C++ (Department of Computer Technologies, ITMO).
-2. Advanced course on C++ (Faculty of Computer Science, HSE).
-  - https://gitlab.com/danlark/cpp-advanced-hse
-  - https://youtube.com/playlist?list=PLEqoHzpnmTfBLBdXciLaRAJOeLZVkJBWD
-
