@@ -5,7 +5,10 @@ I'm providing these with the expectation that they may also be beneficial to you
 
 Available notes:
 
+ - [Algorithms and Data Structures](https://github.com/makszeus/cs-notes/tree/main/src/algorithms.md)
  - [C++](https://github.com/makszeus/cs-notes/tree/main/src/cpp.md)
  - [Computer Architecture](https://github.com/makszeus/cs-notes/tree/main/src/ca.omd)
  - [Distributed Systems](https://github.com/makszeus/cs-notes/tree/main/src/dist-sys.md)
+ - [Go](https://github.com/makszeus/cs-notes/tree/main/src/go.md)
  - [Java](https://github.com/makszeus/cs-notes/tree/main/src/java.md)
+ - [Rust](https://github.com/makszeus/cs-notes/tree/main/src/rust.md)
