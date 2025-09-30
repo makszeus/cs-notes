@@ -11,4 +11,5 @@ Available notes:
  - [Distributed Systems](https://github.com/makszeus/cs-notes/tree/main/src/dist-sys.md)
  - [Go](https://github.com/makszeus/cs-notes/tree/main/src/go.md)
  - [Java](https://github.com/makszeus/cs-notes/tree/main/src/java.md)
+ - [Machine Learning](https://github.com/makszeus/cs-notes/tree/main/src/ml.md)
  - [Rust](https://github.com/makszeus/cs-notes/tree/main/src/rust.md)
